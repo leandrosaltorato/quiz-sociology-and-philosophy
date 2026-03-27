@@ -41,13 +41,18 @@ O quiz foi apresentado ao professor responsável pela disciplina, que realizou u
 
 ## Avaliação do Professor
 **Comentário do professor:**
-"O quiz apresenta um bom conteúdo com questões basicas, porem uteis para o estudo diario"
+
+"O quiz apresenta jeito lúdico de falar coisas importantes"
 
 ---
 
 ## Sugestões de Melhoria
 
-- Melhorar o design para torná-la mais atrativa e moderna.
+- Melhorar o design da interface para torná-la mais atrativa e moderna.
+
+
+
+
 
 
 
