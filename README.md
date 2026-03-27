@@ -42,12 +42,3 @@ O quiz foi apresentado ao professor responsável pela disciplina, que realizou u
 ## Avaliação do Professor
 
 - Pontuação obtida na primeira tentativa:
-
-**Comentário do professor:**
-"O quiz apresenta um bom conteúdo e cumpre seu objetivo de revisar conceitos importantes. A navegação é simples e funcional."
-
----
-
-## Sugestões de Melhoria
-
-- Melhorar o design da interface para torná-la mais atrativa e moderna.
